@@ -14,6 +14,9 @@ laut: RF code sniffer: Protocol: 1 (https://github.com/sui77/rc-switch)
 
 19-JAN-2016 andreas langkath , info@langkath.de
 
+video: https://youtu.be/5DRBpCffIdQ
+code: https://github.com/andi666/arduino.315mhz.remote-control
+
 only for fun , under MIT license
 *********************************************************************************************/
 #include <Wire.h>   
