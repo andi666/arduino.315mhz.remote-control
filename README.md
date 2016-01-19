@@ -12,7 +12,7 @@ pay attention: the Tx-modul comes whitout an antenna. you need to solder a smal 
 whithout the antenna, the module will not work correct. (not more than 5cm distance...). 
 
 
-video: https://www.youtube.com/watch?v=5DRBpCffIdQ
+video: https://youtu.be/5DRBpCffIdQ
 
 arduino code: https://github.com/andi666/arduino.315mhz.remote-control
 
