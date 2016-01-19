@@ -12,5 +12,4 @@ video: https://www.youtube.com/watch?v=5DRBpCffIdQ
 arduino code: https://github.com/andi666/arduino.315mhz.remote-control
 
 
-https://cloud.githubusercontent.com/assets/15942333/12417855/60c9990e-beab-11e5-9186-01191009c092.jpg
-
+![schaltung](https://cloud.githubusercontent.com/assets/15942333/12417855/60c9990e-beab-11e5-9186-01191009c092.jpg)
